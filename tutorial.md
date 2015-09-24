@@ -13,24 +13,24 @@ En el siguiente documento se muestran los pasos que he seguido para completar lo
 
   El sistema de C9.io permite que cuando creas un nuevo espacio de trabajo le asignes un template determinado. en nuestro caso nos viene genial porque uno de los que nos ofrece es el de node.js. Con esto construimos un espacio de trabajo que ya nos ofrece este servicio sin necesidad de descargas posteriores.
 
-    ![](STW/web.PNG)
+    ![](images/web.PNG)
 3. GitHub
 
     He creado en mi cuenta GitHub dos repositorios. En uno tendré todas las ventajas que nos da gh-pages y en otro simplemente dispondré de esta tarea inicial.
 
-    ![](STW/git.PNG)
+    ![](images/git.PNG)
 
 4. Express
 
     He procedido a la instalación de Express en mi entorno de trabajo de cloud9:
 
-    ![](STW/express.PNG)
+    ![](images/express.PNG)
 
 5. Atom
 
     En cuanto al editor Atom lo he descargado para mi equipo Windows para no sobrecargar el Cloud9. Se descarga de manera muy facil desde su [página](https://atom.io/ "página").
 
-    ![](STW/ATOM_descarga.PNG)
+    ![](images/ATOM_descarga.PNG)
 
 6. MarkDown
 
