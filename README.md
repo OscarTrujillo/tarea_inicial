@@ -21,5 +21,5 @@ Prepara tus páginas de prácticas en github.io usando un esquema parecido al de
 
 Enlaces de interes:
 
-web: oscartrujillo.github.io
-oscartrujillo.github.io/tarea_inicial
+web: http://oscartrujillo.github.io/
+tareas iniciales: http://oscartrujillo.github.io/tarea_inicial/
